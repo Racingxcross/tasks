@@ -11,5 +11,4 @@ public class Task1 {
 	      System.out.println("Reversed String: " + ans); 
 	    }
 	}
-	
 }
