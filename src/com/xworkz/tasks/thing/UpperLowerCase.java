@@ -12,9 +12,9 @@ public static void main(String[] args) {
 	for (int a = 0; a < word.length; a++) {
 		if (word[a]>='A'&& word[a]<='z') {
 			word[a]=(char)((int)word[a]+32);
-			System.out.println("String in lower case is : ");
+		
 		 	sc.close();
-			System.out.println(word[a]);
+			System.out.print(word[a]);
 			
 		}
 	}
