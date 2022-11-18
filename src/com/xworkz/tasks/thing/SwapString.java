@@ -9,4 +9,9 @@ public static void main(String[] args) {
 	str = str.substring(str1.length());
 	System.out.println("String after swapping:" + str +" "+ str1);
 }
+
+public static char[] copyOf(char[] str, int index) {
+	// TODO Auto-generated method stub
+	return null;
+}
 }
