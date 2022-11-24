@@ -10,11 +10,11 @@ public class AlphabetPattern {
 			
 		for (int k=3; k<=3; k++) {
 			
-			System.out.println("a");
+			System.out.println("A");
 		}
-		System.out.println("bb");
+		System.out.println("Bb");
 	}
-	System.out.println("ccc");
+	System.out.println("Ccc");
 	}
   }
 }
